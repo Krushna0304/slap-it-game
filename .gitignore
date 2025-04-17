@@ -1,0 +1,69 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User-specific settings
+UserSettings/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Crash reports
+sysinfo.txt
+
+# Unity cache and temporary files
+*.stackdump
+*.apk
+*.aab
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Auto-generated meta files
+*.pidb.meta
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Unity Cloud Build
+unitycloudbuild/
+
+# Addressable Assets
+Assets/AddressableAssetsData/*/*.bin
+Assets/AddressableAssetsData/*/*.link
+
+# Optional: ignore your local build configs
+BuildConfigs/
+
+# Optional: ignore your asset store downloads
+Assets/AssetStoreTools*
+
+# Collaborate specific
+.collabignore
+.collab/
+
+# Plastic SCM
+.plastic/
+ignore.conf
