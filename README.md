@@ -47,4 +47,4 @@ To run the project locally:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/slap-it.git
+   git clone https://github.com/Krushna0304/slap-it-game.git
